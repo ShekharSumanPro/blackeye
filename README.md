@@ -1,5 +1,5 @@
 ## BLACKEYE v1.1
-### Coded by: @linux_choice (https://github.com/thelinuxchoice/blackeye)
+### Coded by: @linux_choice (https://github.com/ShekharSumanPro/blackeye)
 ### Give me the credits if you copy ANY part from this code. Don't be NOOB!!
 ### Upgraded by: @suljot_gjoka (@whiteeagle0)
 
